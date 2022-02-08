@@ -1,7 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Gudea&family=Source+Serif+Pro:ital@0;1&display=swap');
+
 html, body {
-  margin: 0;
+  margin: auto;
   border: 0;
   font-size: 100%;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #ebe9dd;
+  color: #443b46;
+  height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Gudea', sans-serif;
+}
+
+a {
+    color: #9e4853;
+}
+
+a:hover {
+    color: #a02b48;
+    font-style: italic;
+}
+
+
+h1 > a {
+    color: #a9a794;
+}
+
+h2 > a {
+    
+    font-family: 'Source Serif Pro', serif;
+    text-decoration: none;
 }
