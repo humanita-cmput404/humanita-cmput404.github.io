@@ -1,4 +1,4 @@
-AUTHOR = 'Della'
+AUTHOR = 'Taylor Swift'
 SITENAME = 'Lab 5 Site'
 SITEURL = ''
 
